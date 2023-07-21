@@ -1,4 +1,4 @@
 <?php
     echo "to main";
-    echo "change 1"
+    echo "change 1";
 ?>
